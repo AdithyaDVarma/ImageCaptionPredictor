@@ -1,4 +1,4 @@
-# IMAGE CAPION GENERATOR
+# IMAGE CAPTION GENERATOR
 
 ## Abstract
 This repository contains the project where captions will be genrated when an image is inputed. Captions as generated so that it gives out abstract description of the photo. 
